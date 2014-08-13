@@ -1,0 +1,15 @@
+---
+name: Django Test
+description: ''
+keywords: ''
+type: Django
+documentation: ''
+images:
+- name: dockerfile_nodejs-bower-grunt_latest_1
+  source: dockerfile/nodejs-bower-grunt:latest
+  category: Webserver
+  type: Default
+- name: mongo_1_1
+  source: mongo:latest
+  category: Database
+  type: Default
